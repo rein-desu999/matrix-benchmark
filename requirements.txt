@@ -1,0 +1,10 @@
+numpy
+psutil
+matplotlib
+
+
+Install with:
+pip install numpy psutil matplotlib
+
+How to run:
+python -u benchmark.py

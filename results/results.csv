@@ -1,0 +1,7 @@
+cpu,matrix_size,mode,workers,trials,mean_ms,std_ms,throughput_ops_s,peak_mem_mb,speedup
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",200,sequential,1,5,0.58,0.151,1723.6626,39.98,0.0
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",200,parallel,2,5,2014.569,267.409,0.4964,42.95,0.0
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",400,sequential,1,5,1.405,0.198,711.683,47.66,0.001
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",400,parallel,2,5,1981.273,125.605,0.5047,48.27,0.001
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",800,sequential,1,5,8.964,1.564,111.5608,65.38,0.004
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",800,parallel,2,5,2302.027,230.811,0.4344,65.4,0.004
